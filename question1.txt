@@ -1,0 +1,28 @@
+a) statically typed language and dynamically typed language:
+   
+   answer:
+       statically typed language:
+             1. Here we have to declare the datatypes of the variables.
+             2. type checking of variable done at compile time so we can able to 
+                fix the error at earlier stage.
+             3. these are statically typed language  Java, C, and C++.
+       dynamically typed language:
+             1. Here we do not declare the type of datatypes of variable.
+             2. type checking of variable performs at run time.
+             3. some examples of dynamically typed languages are Python, Javascript
+
+b) scripting language vs programming language:
+    
+   answer:
+        scripting language: 
+            1. it is a type of programming language does not require a explicit
+               compilation.
+            2. it is designed for runtime system to automate the execution of task.
+            3. here we can run the program immediately.
+          
+         programming language:
+            1. here by using programming language we can communicate with computers
+               through set of instruction.
+            2. her the instructions are compiled and the source code is converted
+               machine codes.
+            3. some programming languages are c, c++, java.

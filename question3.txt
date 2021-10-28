@@ -1,0 +1,27 @@
+3.objects and its internal representation in Javascript
+
+ Answer:
+     
+ 1. A JavaScript object is a collection of named values.
+ 
+ 2.variables are containers for storing the values.
+  
+ 3.objects are like big size containers we can store more data on particular 
+   object name, and each value is separated or indexed by different 
+   key value pairs.
+ 
+ 4.by using constructor we can create N number of objects by using 
+   new keyword.
+ 
+ 5.JavaScript has a number of predefined objects. In addition, you can create your 
+   own objects. You can create an object using an object initializer.        Alternatively, you can first create a constructor function and then instantiate    
+   an object invoking that function in conjunction with the new operator.
+
+ 6.Define the object type by writing a constructor function. There is a strong    convention, with good reason, to use a capital initial letter.
+   Create an instance of the object with new.
+
+ 7.Constructor is nothing but a function and with help of new keyword, constructor 
+   function allows to create multiple objects.
+
+ 8.In object we can declare multiple datas with different datatypes but one thing we should
+   consider the reference not repeated two times.
